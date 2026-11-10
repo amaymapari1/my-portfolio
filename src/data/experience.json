@@ -1,0 +1,28 @@
+[
+  {
+    "date": "July 2024 — Present",
+    "title": "Software Engineer I",
+    "subtitle": "Avaya · Pune",
+    "details": [
+      "Workflow trigger so embedded screens start workflows through the trusted agent desktop, without receiving workflow credentials.",
+      "Workflow API catalog of approved internal APIs, with OpenAPI contracts, request validation, and list and by-ID endpoints.",
+      "Public API rate limiting in the service mesh. Transcript traffic is capped at 6,000 requests per minute.",
+      "Notification service on Azure AKS: dependency-aware health checks, resilient rollouts, and three merge-blocking CI quality and security gates.",
+      "Admin About page for service and release versions, and account settings that turn agentless campaigns on, with the matching configuration-service change.",
+      "Playwright coverage for outbound campaigns: timer lifecycle, exactly-once auto-dial, and duplicate or out-of-order events.",
+      "Agentless email and SMS proofs of concept, including Twilio, plus a test runbook."
+    ],
+    "techStack": ["TypeScript", "Express", "Prisma", "MySQL", "Go", "Kubernetes", "Helm", "Envoy", "Playwright"]
+  },
+  {
+    "date": "January 2024 — June 2024",
+    "title": "Software Development Intern",
+    "subtitle": "Avaya · Pune",
+    "details": [
+      "Kafka and Avro event streaming: a Spring Boot app writes real-time events to a topic, and a consumer reads them into a readable form.",
+      "Python and Ansible automation, and a Spring Boot orchestrator with JPA, to upgrade Avaya Aura components on remote hosts.",
+      "A neural-network prototype that ranks agents for an incoming customer query."
+    ],
+    "techStack": ["Java", "Spring Boot", "Kafka", "Avro", "Python", "Ansible"]
+  }
+]

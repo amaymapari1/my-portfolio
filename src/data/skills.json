@@ -1,0 +1,23 @@
+[
+  { "name": "TypeScript", "url": "https://img.icons8.com/color/96/typescript.png" },
+  { "name": "JavaScript", "url": "https://img.icons8.com/color/96/javascript.png" },
+  { "name": "React", "url": "https://img.icons8.com/color/96/react-native.png" },
+  { "name": "HTML", "url": "https://img.icons8.com/color/96/html-5.png" },
+  { "name": "CSS", "url": "https://img.icons8.com/color/96/css3.png" },
+  { "name": "Node.js", "url": "https://img.icons8.com/color/96/nodejs.png" },
+  { "name": "Go", "url": "https://img.icons8.com/color/96/golang.png" },
+  { "name": "Java", "url": "https://img.icons8.com/color/96/java-coffee-cup-logo.png" },
+  { "name": "Spring Boot", "url": "https://img.icons8.com/color/96/spring-logo.png" },
+  { "name": "Python", "url": "https://img.icons8.com/color/96/python.png" },
+  { "name": "C++", "url": "https://img.icons8.com/color/96/c-plus-plus-logo.png" },
+  { "name": "MySQL", "url": "https://img.icons8.com/color/96/mysql-logo.png" },
+  { "name": "MongoDB", "url": "https://img.icons8.com/color/96/mongodb.png" },
+  { "name": "Redis", "url": "https://img.icons8.com/color/96/redis.png" },
+  { "name": "Kafka", "url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" },
+  { "name": "REST APIs", "url": "https://img.icons8.com/color/96/api.png" },
+  { "name": "Docker", "url": "https://img.icons8.com/color/96/docker.png" },
+  { "name": "Kubernetes", "url": "https://img.icons8.com/color/96/kubernetes.png" },
+  { "name": "Azure", "url": "https://img.icons8.com/color/96/azure-1.png" },
+  { "name": "Git", "url": "https://img.icons8.com/color/96/git.png" },
+  { "name": "Playwright", "url": "https://img.icons8.com/color/96/test-tube.png" }
+]

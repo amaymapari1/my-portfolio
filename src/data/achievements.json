@@ -1,0 +1,39 @@
+[
+  {
+    "name": "CodeChef",
+    "position": "3-star",
+    "date": "Max rating 1687",
+    "details": [
+      {
+        "label": "Practice",
+        "value": "500+ problems across CodeChef, Codeforces, LeetCode, HackerRank, and GeeksforGeeks."
+      },
+      {
+        "label": "Contest",
+        "value": "March Lunchtime 2022, global rank 436."
+      }
+    ]
+  },
+  {
+    "name": "JEE Main",
+    "position": "AIR 8521",
+    "date": "Entrance exam",
+    "details": [
+      {
+        "label": "Percentile",
+        "value": "99.2452620"
+      }
+    ]
+  },
+  {
+    "name": "MHT-CET",
+    "position": "State merit rank 236",
+    "date": "Entrance exam",
+    "details": [
+      {
+        "label": "Percentile",
+        "value": "99.8301831"
+      }
+    ]
+  }
+]
